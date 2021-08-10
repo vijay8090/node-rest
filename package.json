@@ -1,0 +1,25 @@
+{
+  "name": "node-rest",
+  "version": "1.0.0",
+  "description": "Basic setup for REST API using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijay8090/node-rest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijay8090/node-rest/issues"
+  },
+  "homepage": "https://github.com/vijay8090/node-rest#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "prettier": "^2.3.2"
+  }
+}
