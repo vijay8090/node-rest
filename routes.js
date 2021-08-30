@@ -6,8 +6,9 @@ router.get("/", (req, res) => {
   res.send("App is running");
 });
 
-router.get("/employees", (req, res) => {
+router.get("/employee", (req, res) => {
   res.status(200).json(employees);
 });
+
 
 module.exports = router;
