@@ -1,4 +1,4 @@
-[
+const colors = [
 	{
 		color: "red",
 		value: "#f00"
