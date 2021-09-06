@@ -1,6 +1,4 @@
-const products = {
-"data": {
-"items": [
+const products = [
 {
 "id": "GGOEAFKA087499",
 "name": "Android Small Removable Sticker Sheet",
@@ -937,5 +935,5 @@ const products = {
 "subcategory": "apparel"
 }
 ]
-}
-}
+
+module.exports = products;
