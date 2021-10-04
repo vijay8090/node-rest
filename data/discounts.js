@@ -4,8 +4,8 @@ const discountsByProduct = [
     discountPercentage: 10,
   },
   {
-    id: "GGOEAFKA087499",
-    discountPercentage: 10,
+    id: "GGOEAFKA087599",
+    discountPercentage: 20,
   },
 ];
 
